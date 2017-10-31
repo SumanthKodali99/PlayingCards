@@ -1,0 +1,10 @@
+/
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/bin/Debug/PlayingCards.exe.config
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/bin/Debug/PlayingCards.exe
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/bin/Debug/PlayingCards.pdb
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/obj/Debug/PlayingCards.Form1.resources
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/obj/Debug/PlayingCards.Properties.Resources.resources
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/obj/Debug/PlayingCards.csproj.GenerateResource.Cache
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/obj/Debug/PlayingCards.csproj.CoreCompileInputs.cache
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/obj/Debug/PlayingCards.exe
+/Users/Sumanth/Downloads/PlayingCards_9_2/PlayingCards/obj/Debug/PlayingCards.pdb

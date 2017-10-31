@@ -1,0 +1,8 @@
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\bin\Release\PlayingCards.exe.config
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\bin\Release\PlayingCards.exe
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\bin\Release\PlayingCards.pdb
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\obj\Release\PlayingCards.Form1.resources
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\obj\Release\PlayingCards.Properties.Resources.resources
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\obj\Release\PlayingCards.csproj.GenerateResource.Cache
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\obj\Release\PlayingCards.exe
+C:\Users\Rob\Documents\Client Projects\Upwork\PlayingCards\PlayingCards\obj\Release\PlayingCards.pdb
